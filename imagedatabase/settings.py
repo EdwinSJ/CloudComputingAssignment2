@@ -80,7 +80,7 @@ DATABASES = {
             'ENGINE': 'djongo',
             'NAME' : 'TDB',
                 'CLIENT': {
-        'host': 'mongodb://localhost:27017/testdb1',
+        'host': 'mongodb://localhost:27017/TDB',
         'port': 27017,
         } 
     },
